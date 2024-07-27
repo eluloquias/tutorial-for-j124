@@ -9,7 +9,7 @@ Someone once told me the following quote:
 > Don't let your fears stand 
 > in the way of your dreams.
 
-<ins This will be underlined </ins>
+<ins> This will be underlined </ins>
 
 This will have a ~~strikethrough~~ 
 
